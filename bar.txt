@@ -1,2 +1,3 @@
 this is a bar.txt file. 
 GITS rock.
+Add an entry
