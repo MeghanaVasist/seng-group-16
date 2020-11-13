@@ -1,1 +1,1 @@
-this file is foo.txt
+some fun file
